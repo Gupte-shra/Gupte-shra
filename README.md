@@ -1,13 +1,10 @@
-### 👋 Hi, I’m @Gupte-shra
+### 👋 ✨ Welcome to my corner of GitHub — where average code fears to tread.
+I don’t believe in messy commits, spaghetti logic, or “just good enough.”
+If it’s not clean, efficient, and built with purpose, it doesn’t belong here.
+💻 I build data-driven solutions, craft dashboards that actually tell a story, and push analytics beyond the obvious.
+⚡ Expect projects that are polished, opinionated, and maybe a little extra, because why settle for basic?
 
-- 👀 I’m interested in data science, analytics, and storytelling through data visualizations  
-- 🌱 I’m currently learning advanced machine learning techniques and dashboard development  
-- 💞️ I’m looking to collaborate on real-world projects involving social impact, education, or diversity & inclusion  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shraddha-gupte-06331a19a/) | shraddha.p.gupte@gmail.com 
-- 😄 Pronouns: she/her  
-- ⚡ Fun fact: I code best when I’m surrounded by coffee, lo-fi beats, and a warm hoodie 😄☕💻  
-
-
+So if you’re into clean code with standards high enough to break the glass ceiling — you’re in the right place.
 <!---
 Gupte-shra/Gupte-shra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
