@@ -43,9 +43,9 @@ Hey — I'm **Shraddha**. I build data-driven solutions that skip the noise and 
 
 | Project | What it does |
 |---------|--------------|
-| 📊 [Probability & Statistics](https://github.com/Gupte-shra/Projects-Focused-on-Probability-Statistics) | Statistical analysis, modeling & interpretation |
-| 🗄️ [DBMS & SQL Practice](https://github.com/Gupte-shra/Data-Base-Management-Systems-SQL-Practise) | Real-world SQL querying + a Big Data project |
-| 📈 [Analytics Practice](https://github.com/Gupte-shra/Practising-Analytics---Beginner) | Core analytics & R programming problem sets |
+| 📊 [Data Visualization Portfolio](https://github.com/Gupte-shra/DataViz-Portfolio) | R, Shiny & Tableau dashboards — Banking, Spotify, Etsy & COVID |
+| 📈 [Enterprise Analytics Portfolio](https://github.com/Gupte-shra/Enterprise-Analytics-Portfolio) | Monte Carlo simulation, forecasting & optimization in R |
+| 🧮 [Intermediate Analytics Portfolio](https://github.com/Gupte-shra/Intermediate-Analytics-Portfolio) | Regression, ANOVA, GLM/logistic, regularization & nonparametric stats |
 
 ---
 
