@@ -49,13 +49,4 @@ Hey — I'm **Shraddha**. I build data-driven solutions that skip the noise and 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gupte-shra&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gupte-shra&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 <p align="center"><em>Analytics that go beyond the obvious. Work built to last.</em></p>
